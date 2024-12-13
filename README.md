@@ -1,2 +1,2 @@
 Live Link :
-https://updateweather.onrender.com
+https://weather.onrender.com
