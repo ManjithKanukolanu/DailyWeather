@@ -8,9 +8,13 @@
     • Temperature Details: Displays temperature, weather conditions, humidity, wind speed, and more.
     
 ➡Technologies Used 🛠️
+
     ‣ Frontend:
+    
       • HTML: Structure of the webpage.
       • CSS: Styling and layout of the application.
       • JavaScript: Core logic to fetch and display weather data.
+      
     ‣ API:
+    
       • OpenWeather API: Used to retrieve real-time weather data.
