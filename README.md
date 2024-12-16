@@ -1,4 +1,4 @@
-                                                             Weather Application 🌤️
+                                           Weather Application 🌤️
 ➡ Features 🚀
 
     • Real-Time Weather Updates: Get current weather data for any city or location worldwide.
